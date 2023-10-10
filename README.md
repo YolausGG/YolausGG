@@ -8,13 +8,13 @@
 <section class="main-container">
             <h2 class="subtitle">Lenguajes, Frameworks y Libresrias</h2>
            
-                    <figure>
+                    
                         <img src="img/HTMLLogo.png" alt="" class="grid-img">
-                    </figure>
+                   
                 
-                    <figure>
+                  
                         <img src="img/CSSLogo.png" alt="" class="grid-img">
-                    </figure>
+                  
                
              
                     <figure>
