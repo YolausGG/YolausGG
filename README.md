@@ -1,4 +1,5 @@
-<img src="![Yolaus Godoy](https://github.com/YolausGG/YolausGG/assets/81392395/0b85a309-e975-4ec7-8377-5b35308f46c0" width="40" height="40" )>
+
+![Yolaus Godoy (1)](https://github.com/YolausGG/YolausGG/assets/81392395/0c5610e2-e3d0-4c9a-b2fa-eea9cb7a9570)
 
 
 ### <h1> Skills </h1>
