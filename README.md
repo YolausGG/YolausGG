@@ -8,8 +8,57 @@
 <section class="main-container">
             <h2 class="subtitle">Lenguajes, Frameworks y Libresrias</h2>
            
-                    <img align="center" alt="HTML" height="30" width="40" src="https://https://www.w3.org/html/logo">
-                        [img/HTMLLogo.png](https://www.w3.org/html/logo/)
+                    <img align="center" alt="HTML" height="30" width="40" src="                <img align="center" alt="HTML" height="30" width="40" src="https://https://www.w3.org/html/logo">
+                    [img/HTMLLogo.png](https://www.w3.org/html/logo/)
+               
+            
+              
+                    <img src="img/CSSLogo.png" alt="" class="grid-img">
+              
+           
+         
+                <figure>
+                    <img src="img/JSLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/JavaLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/CSharpLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/SQLServerLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/MySQLLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/ReactLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/BootstrapLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/VSCodeLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/NetbeansLogo.png" alt="" class="grid-img">
+                </figure>
+            
+                <figure>
+                    <img src="img/IIJIDEALogo.png" alt="" class="grid-img">
+                </figure>
+            
+
+    </section>")
                    
                 
                   
