@@ -8,7 +8,7 @@
 <section class="main-container">
             <h2 class="subtitle">Lenguajes, Frameworks y Libresrias</h2>
            
-                    
+                    <img align="center" alt="HTML" height="30" width="40" src="https://https://www.w3.org/html/logo">
                         [img/HTMLLogo.png](https://www.w3.org/html/logo/)
                    
                 
