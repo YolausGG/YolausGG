@@ -7,68 +7,55 @@
 
 <section class="main-container">
             <h2 class="subtitle">Lenguajes, Frameworks y Libresrias</h2>
-            <article class="grid">
-
-                <div class="grid-item">
+           
                     <figure>
                         <img src="img/HTMLLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/CSSLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+               
+             
                     <figure>
                         <img src="img/JSLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/JavaLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/CSharpLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/SQLServerLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/MySQLLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/ReactLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/BootstrapLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/VSCodeLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/NetbeansLogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-                <div class="grid-item">
+                
                     <figure>
                         <img src="img/IIJIDEALogo.png" alt="" class="grid-img">
                     </figure>
-                </div>
-            </article>
+                
 
         </section>
