@@ -9,7 +9,7 @@
             <h2 class="subtitle">Lenguajes, Frameworks y Libresrias</h2>
            
                     
-                        <img src="img/HTMLLogo.png" alt="" class="grid-img">
+                        <img src="[img/HTMLLogo.png](https://www.w3.org/html/logo/)" alt="HTML" ">
                    
                 
                   
