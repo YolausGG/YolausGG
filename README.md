@@ -1,4 +1,9 @@
+<div display="flex" justify-content:"space-between">
+ <p> lorem loremmmmmmmmmmmm</p>
  <img  align="center" alt="img Yolaus" height="200" width="600" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Godoy.png"> 
+</div>
+ 
+ 
 
 ### <h1> Skills </h1>
  
