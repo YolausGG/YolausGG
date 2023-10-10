@@ -1,5 +1,4 @@
-
-![BannerGitHabYolaus](https://github.com/YolausGG/YolausGG/assets/81392395/a0c80328-d89a-454c-950f-793df784bb64)
+![BannerGitHabYolaus](https://github.com/YolausGG/YolausGG/assets/81392395/5adbba7b-fc6d-432f-ab30-1c8cd4716626)
 
 ### <h1> Skills </h1>
  
