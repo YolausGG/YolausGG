@@ -1,6 +1,6 @@
-<div justify-content="space-between">
+<div>
  <p> lorem loremmmmmmmmmmmm</p>
- <img  align="center" alt="img Yolaus" height="200" width="600" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Godoy.png"> 
+ <img  alt="img Yolaus" height="200" width="600" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Godoy.png"> 
 </div>
  
  
