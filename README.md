@@ -1,5 +1,5 @@
 
- 
+<img align="center" alt="bannerYolaus" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Banner.png)" 
 
 ### <h1> Skills </h1>
  
