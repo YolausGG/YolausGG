@@ -1,5 +1,7 @@
 
-https://github.com/YolausGG/YolausGG/assets/81392395/da1e9765-9fe2-4074-b1dc-7ac351102085
+https://githu[BannerGitHabYolaus.1080p.webm](https://github.com/YolausGG/YolausGG/assets/81392395/59d2dbf6-327b-40cc-a097-f4c1e076070f)
+
+b.com/YolausGG/YolausGG/assets/81392395/da1e9765-9fe2-4074-b1dc-7ac351102085
 
 <img align="center" alt="bannerYolaus" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Banner.png">
 ### <h1> Skills </h1>
