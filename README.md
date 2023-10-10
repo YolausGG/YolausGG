@@ -1,6 +1,5 @@
 <div>
- <p> lorem loremmmmmmmmmmmm</p>
- <img  alt="img Yolaus" height="200" width="600" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Godoy.png"> 
+ <p> lorem loremmmmmmmmmmmm</p> <img  alt="img Yolaus" height="200" width="600" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Godoy.png"> 
 </div>
  
  
