@@ -1,4 +1,4 @@
- <img  justify="center" align="center" alt="img Yolaus" height="200" width="600" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Godoy.png"> 
+ <img  align="center" alt="img Yolaus" height="200" width="600" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Godoy.png"> 
 
 ### <h1> Skills </h1>
  
