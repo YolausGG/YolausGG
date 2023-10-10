@@ -1,9 +1,9 @@
 
-https://githu[BannerGitHabYolaus.1080p.webm](https://github.com/YolausGG/YolausGG/assets/81392395/59d2dbf6-327b-40cc-a097-f4c1e076070f)
+[BannerGitHabYolaus.1080p.webm](https://github.com/YolausGG/YolausGG/assets/81392395/60fb0d5b-3fe4-492b-86ee-db0bd31a6794)
 
-b.com/YolausGG/YolausGG/assets/81392395/da1e9765-9fe2-4074-b1dc-7ac351102085
 
-<img align="center" alt="bannerYolaus" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Banner.png">
+<img align="[BannerGitHabYolaus.1080p.webm](https://github.com/YolausGG/YolausGG/assets/81392395/0cf4c4c9-b5b9-4ff0-8c52-c9c887e581bc)
+center" alt="bannerYolaus" src="https://github.com/YolausGG/YolausGG/blob/main/Yolaus%20Banner.png">
 ### <h1> Skills </h1>
  
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">  
