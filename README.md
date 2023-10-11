@@ -1,7 +1,7 @@
 ![BannerGitHabYolaus](https://github.com/YolausGG/YolausGG/assets/81392395/5adbba7b-fc6d-432f-ab30-1c8cd4716626)
 
 ### <h1> Skills </h1>
-
+<div>
  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
  <img align="center" alt="JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,7 @@
  <img align="center" alt="Visual Studio Code" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
  <img align="center" alt="NetBeans" height="50" width="50" src="https://github.com/apache/netbeans/blob/master/nbi/engine/native/launcher/windows/resources/icon.ico"> 
  <img align="center" alt="InteliiJIdea" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
-
+</div>
  
 ### Referencias
 
