@@ -19,7 +19,7 @@
  <img align="center" alt="InteliiJIdea" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
  </div>
  
-Referencias
+### Referencias
 
   <a href = "mailto:godoyyolaus07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yolausgg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
