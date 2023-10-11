@@ -1,7 +1,7 @@
 ![BannerGitHabYolaus](https://github.com/YolausGG/YolausGG/assets/81392395/5adbba7b-fc6d-432f-ab30-1c8cd4716626)
 
 ### <h1> Skills </h1>
- <div display="flex">
+ <div display="grid" gap="10px">
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
