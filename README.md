@@ -16,7 +16,7 @@
 
  <img align="center" alt="Visual Studio Code" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> 
  <img align="center" alt="NetBeans" height="50" width="50" src="https://github.com/apache/netbeans/blob/master/nbi/engine/native/launcher/windows/resources/icon.ico"> 
- <img align="center" alt="InteliiJIdea" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg">
+ <img align="center" alt="InteliiJIdea" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
 </div>
  
 ### <h2>Referencias </h2>
